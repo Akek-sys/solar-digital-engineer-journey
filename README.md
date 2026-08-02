@@ -1,9 +1,9 @@
 # solar-digital-engineer-journey
 
-Este repositorio documenta mi aprendizaje en:
+This repository documents my learning in:
 
 - SQL
 - Python
 - Power BI
-- Energía Solar
-- Automatización
+- Solar Energy
+- Automatization
